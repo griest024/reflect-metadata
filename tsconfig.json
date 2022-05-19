@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "commonjs",
+    "module": "ES2020",
     "newLine": "LF",
     "sourceMap": true,
     "strictNullChecks": true,
